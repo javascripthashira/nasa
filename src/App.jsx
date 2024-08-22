@@ -1,5 +1,5 @@
 import Footer from "../components/Footer"
-import Main from "../components/main"
+import Main from "../components/Main"
 import SideBar from "../components/SideBar"
 import { useEffect, useState } from "react"
 
